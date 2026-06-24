@@ -1,1 +1,6 @@
+streamlit
+reportlab
+Pillow
+requests
+deep-translator
 
